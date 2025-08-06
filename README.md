@@ -12,8 +12,7 @@ This project is a complete implementation of the classic puzzle game Tetris, wri
 ![Gameplay Screenshot](https://github.com/user-attachments/assets/c3deb866-f46a-4699-a430-faf31419d09a)
 
 ### Game Over Screen
-![Game Over](<img width="440" height="853" alt="image" src="https://github.com/user-attachments/assets/f69644d4-eb37-48c0-831e-fd0828caa930" />
-)
+![Game Over](https://github.com/user-attachments/assets/f69644d4-eb37-48c0-831e-fd0828caa930)
 
 ---
 
