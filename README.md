@@ -42,7 +42,7 @@ This project is a complete implementation of the classic puzzle game Tetris, wri
 ### Requirements
 
 - A MIPS simulator such as:
-  - [MARS](http://courses.missouristate.edu/kenvollmar/mars/)
+  - [MARS](https://computerscience.missouristate.edu/mars-mips-simulator.htm)
   - [Saturn](https://github.com/felko/saturn)
 
 ### Running the Game
