@@ -6,6 +6,18 @@ This project is a complete implementation of the classic puzzle game Tetris, wri
 
 ---
 
+## 🖼️ Screenshots
+
+### Gameplay
+![Gameplay Screenshot](<img width="454" height="861" alt="image" src="https://github.com/user-attachments/assets/c3deb866-f46a-4699-a430-faf31419d09a" />
+)
+
+### Game Over Screen
+![Game Over](<img width="440" height="853" alt="image" src="https://github.com/user-attachments/assets/f69644d4-eb37-48c0-831e-fd0828caa930" />
+)
+
+---
+
 ## ✨ Features
 
 - **Full Tetris Gameplay**: All seven classic tetromino shapes (I, O, T, S, Z, J, L) are implemented.
